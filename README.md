@@ -1,10 +1,10 @@
-# 🛍️ Retail Sales Performance Analysis
+ Retail Sales Performance Analysis
 
 This project analyzes retail sales data from a fictional Superstore using **Python (in PyCharm)** and **Excel**. It provides insights into key performance indicators (KPIs) like sales, profit, discount impacts, and top-performing products and regions.
 
 ---
 
-## 🎯 Objectives
+ Objectives
 
 - Analyze sales and profit trends
 - Identify top-performing categories and products
@@ -13,7 +13,7 @@ This project analyzes retail sales data from a fictional Superstore using **Pyth
 
 ---
 
-## 📂 Project Structure
+Project Structure
 
 | File Name                      | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -26,16 +26,16 @@ This project analyzes retail sales data from a fictional Superstore using **Pyth
 
 ---
 
-## 🧠 Python Analysis (in PyCharm)
+Python Analysis (in PyCharm)
 
-✅ Tools Used:
+Tools Used:
 - Python 3.x
 - Pandas
 - Matplotlib
 - Seaborn
 - OpenPyXL
 
-✅ Key Analyses:
+Key Analyses:
 - Sales by Category (bar chart)
 - Sales vs Profit by Region (bar chart)
 - Top 10 Products by Sales (bar chart)
